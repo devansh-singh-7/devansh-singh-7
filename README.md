@@ -6,7 +6,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=devansh-singh-7&label=Profile%20Views&color=203A43&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/devansh-singh-7?style=for-the-badge&logo=github&color=2C5364&labelColor=0F2027)
-![Status](https://img.shields.io/badge/Seeking-Internships%20and%20Entry--Level%20Roles-2C5364?style=for-the-badge&labelColor=0F2027)
 
 </div>
 
