@@ -91,21 +91,6 @@ profile = {
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:7F00FF&height=3&section=header" width="100%" />
-
-## Analytical Workflow
-
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#3A1C9E','primaryTextColor':'#ffffff','lineColor':'#00D4FF','primaryBorderColor':'#7F00FF'}}}%%
-flowchart LR
-    A[Data Collection] --> B[Cleaning and Transformation]
-    B --> C[Exploratory Analysis]
-    C --> D[Modelling and Validation]
-    D --> E[Deployment and Monitoring]
-    E -.feedback.-> A
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00D4FF&height=3&section=header" width="100%" />
-
 ## GitHub Statistics
 
 <div align="center">
